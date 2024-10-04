@@ -1,6 +1,7 @@
 # czf
 we propose a deep learning framework, named MDADDI, to predict potential DDIs. It consists of a molecular feature module,a DDI graph feature module,and an adaptive fusionmodule.
-![Fig 1改](https://github.com/user-attachments/assets/67d24adc-a257-44cf-96b3-df72c9a3a305)
+![a2b172e468374776dfec1e079c7a57a](https://github.com/user-attachments/assets/23190805-49e0-45cb-9d97-545251586450)
+
 # Requirements
 + python >= 3.7
 + torch >= 1.12.0
