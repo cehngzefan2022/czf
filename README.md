@@ -1,6 +1,6 @@
 # DNFSA-DDI
 we propose a deep learning framework, named DNFSA-DDI, to predict potential DDIs. It consists of a molecular feature module,a DDI graph feature module,and an adaptive fusionmodule.
-![a2b172e468374776dfec1e079c7a57a](https://github.com/user-attachments/assets/23190805-49e0-45cb-9d97-545251586450)
+![Uploading a2b172e468374776dfec1e079c7a57a.jpg…]()
 
 # Requirements
 + python = 3.7
