@@ -3,9 +3,8 @@ we propose a deep learning framework, named DNFSA-DDI, to predict potential DDIs
 ![a2b172e468374776dfec1e079c7a57a](https://github.com/user-attachments/assets/23190805-49e0-45cb-9d97-545251586450)
 
 # Requirements
-+ python >= 3.7
-+ torch >= 1.12.0
-
++ python = 3.7
++ torch = 1.12.0
 + torchvision = 1.12.0+cu113
 + RDkit = 2019.03.30
 + numpy = 1.19.4
