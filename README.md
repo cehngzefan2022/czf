@@ -6,10 +6,10 @@ we propose a deep learning framework, named DNFSA-DDI, to predict potential DDIs
 + python >= 3.7
 + torch >= 1.12.0
 
-+ torchvision >= 1.12.0+cu113
-+ RDkit >= 2019.03.30
-+ numpy >= 1.19.4
-+ pandas >= 1.3.4
++ torchvision = 1.12.0+cu113
++ RDkit = 2019.03.30
++ numpy = 1.19.4
++ pandas = 1.3.4
 
 # Using
 1. create_predata.py: Process the data
