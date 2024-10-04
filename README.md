@@ -12,6 +12,4 @@ we propose a deep learning framework, named MDADDI, to predict potential DDIs. I
 + pandas >= 1.3.4
 
 # Using
-  1.create_predata.py: Process the data
-  2.ours.py: the construction of the neural network
-  3.training.py: start file for model training
+1.create_predata.py: Process the data  2.ours.py: the construction of the neural network  3.training.py: start file for model training
